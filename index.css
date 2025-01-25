@@ -732,3 +732,17 @@ ul{
         padding-left: 1 rem;
     }
 }
+
+/* Personal Edits */
+
+.footer_Link:hover{
+    color: var(--link-color);
+}
+
+.feature_Card:hover{
+    transform: scale(1.05);
+}
+
+.social_Icon:hover{
+    transform: scale(1.1);
+}
